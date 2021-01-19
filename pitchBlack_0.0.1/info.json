@@ -1,0 +1,9 @@
+{
+  "name": "pitch-black",
+  "version": "0.0.1",
+  "title": "Pitch Black",
+  "author": "JRProd",
+  "homepage": "https://github.com/JRProd/factorio-pitch-black-mod",
+  "description": "Instead of a relativally peaceful planet, instead you crash landed on <PLANET NAME>. Here there is only a small biter presence; that is until night falls!",
+  "factorio_version": "1.0"
+}
